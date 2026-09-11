@@ -1,0 +1,6 @@
+{
+  "name": "Tes Sumatif IPA Kelas V - SDN 3 Loloan Timur",
+  "description": "Aplikasi Tes Sumatif IPA Kelas V Materi Sistem Pencernaan pada Manusia di SD Negeri 3 Loloan Timur dengan integrasi Google Sheets dan Panel Guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
